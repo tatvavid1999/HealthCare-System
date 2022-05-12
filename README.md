@@ -17,22 +17,37 @@ field of medicinal devices.
 
 ## Requirements
 ### Hardware Requirements
+
 • NodeMcu
-11
+
 • Arduino Uno R3
+
 • Jumper Wires
+
 • Servo Motor
+
 • Dht11 Sensor
+
 • Body Temperature Sensor
+
 • Heart rate Sensor
+
 • OLED Display
 • 16X2 LCD Display
+
 • BreadBoard
+
 ### Software Requirements
+
 • Platform.io
+
 • Postman
+
 • Flutter(For app)
+
 • Arduino IDE
+
 • C++ Programming(For Arduino Coding)
+
 • HTML/CSS(Designing the Page)
 
