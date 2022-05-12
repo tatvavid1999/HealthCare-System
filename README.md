@@ -33,6 +33,7 @@ field of medicinal devices.
 • Heart rate Sensor
 
 • OLED Display
+
 • 16X2 LCD Display
 
 • BreadBoard
